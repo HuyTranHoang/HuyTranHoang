@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://github.com/HuyTranHoang/HuyTranHoang/blob/main/header.png" alt="Github Banner">
+
 <!--
 **HuyTranHoang/HuyTranHoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
