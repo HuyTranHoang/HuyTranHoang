@@ -8,7 +8,7 @@
 <p align='center'>
   <samp>
     <b>
-      I'm Jess
+      I'm Huy
       <br /><br />
       A Software Engineer & Linux Enthusiast
       <br /><br />
