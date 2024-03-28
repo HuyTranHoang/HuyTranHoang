@@ -1,7 +1,7 @@
 「
 
-I'm Huy
+                          I'm Huy
+                          
+                      A Software Engineer
 
-A Software Engineer
-
-」 
+                                                              」 
